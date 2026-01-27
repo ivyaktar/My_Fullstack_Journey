@@ -1,0 +1,19 @@
+/* 
+Challenge:
+Re-design the cookie widget!
+PS: Make sure you change ALL of the listed CSS properties.
+*/
+
+.main{
+    margin-top:100px;
+
+}
+.log-img{
+    display:block;
+    width: 300px;
+}
+
+.search-inp {
+    display:block;
+    width:400px;
+}
